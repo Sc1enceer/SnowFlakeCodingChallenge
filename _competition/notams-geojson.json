@@ -1,0 +1,778 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "VIP Route to Work. No Drones due to privacy requirements",
+        "start_time": "2019-03-01T09:34:00Z",
+        "end_time": "2019-03-01T12:17:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "10000 FT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3736,
+              50.9229
+            ],
+            [
+              -1.3758,
+              50.9244
+            ],
+            [
+              -1.3804,
+              50.9247
+            ],
+            [
+              -1.3811,
+              50.9247
+            ],
+            [
+              -1.382,
+              50.9232
+            ],
+            [
+              -1.3841,
+              50.922
+            ],
+            [
+              -1.3884,
+              50.9208
+            ],
+            [
+              -1.3886,
+              50.9199
+            ],
+            [
+              -1.3894,
+              50.9197
+            ],
+            [
+              -1.3901,
+              50.9201
+            ],
+            [
+              -1.3932,
+              50.9192
+            ],
+            [
+              -1.3947,
+              50.9171
+            ],
+            [
+              -1.396,
+              50.9173
+            ],
+            [
+              -1.3987,
+              50.9142
+            ],
+            [
+              -1.4002,
+              50.9129
+            ],
+            [
+              -1.4011,
+              50.9123
+            ],
+            [
+              -1.4027,
+              50.9126
+            ],
+            [
+              -1.4035,
+              50.9135
+            ],
+            [
+              -1.4044,
+              50.914
+            ],
+            [
+              -1.4047,
+              50.9137
+            ],
+            [
+              -1.4038,
+              50.9131
+            ],
+            [
+              -1.4029,
+              50.9122
+            ],
+            [
+              -1.4011,
+              50.912
+            ],
+            [
+              -1.3998,
+              50.9126
+            ],
+            [
+              -1.3982,
+              50.9141
+            ],
+            [
+              -1.3956,
+              50.9169
+            ],
+            [
+              -1.3944,
+              50.9167
+            ],
+            [
+              -1.3928,
+              50.919
+            ],
+            [
+              -1.3902,
+              50.9196
+            ],
+            [
+              -1.3894,
+              50.9193
+            ],
+            [
+              -1.3881,
+              50.9197
+            ],
+            [
+              -1.3877,
+              50.9205
+            ],
+            [
+              -1.3837,
+              50.9217
+            ],
+            [
+              -1.3816,
+              50.9228
+            ],
+            [
+              -1.3806,
+              50.9241
+            ],
+            [
+              -1.3764,
+              50.9241
+            ],
+            [
+              -1.3742,
+              50.9225
+            ],
+            [
+              -1.3736,
+              50.9229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "No DRONE activity permitted overy West Quay due to danger to Life.",
+        "start_time": "0000-01-01T01:00:00Z",
+        "end_time": "PERM",
+        "lower_altitude": "GND",
+        "upper_altitude": "10000 FT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4082,
+              50.9033
+            ],
+            [
+              -1.4078,
+              50.9025
+            ],
+            [
+              -1.4078,
+              50.9019
+            ],
+            [
+              -1.4075,
+              50.9017
+            ],
+            [
+              -1.407,
+              50.9017
+            ],
+            [
+              -1.4066,
+              50.9019
+            ],
+            [
+              -1.4065,
+              50.9023
+            ],
+            [
+              -1.4064,
+              50.9027
+            ],
+            [
+              -1.4057,
+              50.9029
+            ],
+            [
+              -1.4061,
+              50.9044
+            ],
+            [
+              -1.4071,
+              50.9043
+            ],
+            [
+              -1.4074,
+              50.9049
+            ],
+            [
+              -1.4085,
+              50.9046
+            ],
+            [
+              -1.4086,
+              50.9044
+            ],
+            [
+              -1.4082,
+              50.9033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T09:00:00Z",
+        "end_time": "2019-03-04T09:00:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "1000 M",
+        "text": "Above Bar St. (North) closed for power line maintenance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.405,
+              50.9103
+            ],
+            [
+              -1.4047,
+              50.907
+            ],
+            [
+              -1.4044,
+              50.907
+            ],
+            [
+              -1.4047,
+              50.9104
+            ],
+            [
+              -1.405,
+              50.9103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T09:00:00Z",
+        "end_time": "2019-03-03T09:00:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "1000 M",
+        "text": "Above Bar St. (South) closed for power line maintenance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4047,
+              50.9067
+            ],
+            [
+              -1.4044,
+              50.9048
+            ],
+            [
+              -1.4041,
+              50.9048
+            ],
+            [
+              -1.4043,
+              50.9067
+            ],
+            [
+              -1.4047,
+              50.9067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T09:00:00Z",
+        "end_time": "2019-03-04T18:00:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "1000 M",
+        "text": "Newly installed reactor in Bolderwood underground labs will be tested starting 9 AM on the 2ND.\nABSOLUTELY NO DRONES AT ANY TIME."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4067,
+              50.9382
+            ],
+            [
+              -1.4088,
+              50.9376
+            ],
+            [
+              -1.4086,
+              50.935
+            ],
+            [
+              -1.4011,
+              50.9364
+            ],
+            [
+              -1.4014,
+              50.9381
+            ],
+            [
+              -1.4029,
+              50.939
+            ],
+            [
+              -1.4067,
+              50.9382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T15:00:00Z",
+        "end_time": "2019-03-03T03:00:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "5000 FT",
+        "text": "Annual fireworks display"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.397,
+              50.9308
+            ],
+            [
+              -1.3974,
+              50.9302
+            ],
+            [
+              -1.3966,
+              50.93
+            ],
+            [
+              -1.3962,
+              50.9306
+            ],
+            [
+              -1.397,
+              50.9308
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-02-07T15:15:00Z",
+        "end_time": "PERM",
+        "lower_altitude": "GND",
+        "upper_altitude": "250 FT",
+        "text": "Crane erected until further notice at -1.3987 50.9350"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3989,
+              50.9353
+            ],
+            [
+              -1.3991,
+              50.9349
+            ],
+            [
+              -1.3985,
+              50.9348
+            ],
+            [
+              -1.3983,
+              50.9351
+            ],
+            [
+              -1.3989,
+              50.9353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T06:00:00Z",
+        "end_time": "2019-03-02T13:00:00Z",
+        "lower_altitude": "1000 FT",
+        "upper_altitude": "2000 FT",
+        "text": "Poor visibility due to house fire. Drone operators continue at risk."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3968,
+              50.9295
+            ],
+            [
+              -1.4001,
+              50.9324
+            ],
+            [
+              -1.4043,
+              50.9344
+            ],
+            [
+              -1.4104,
+              50.9337
+            ],
+            [
+              -1.4143,
+              50.9308
+            ],
+            [
+              -1.415,
+              50.9277
+            ],
+            [
+              -1.4126,
+              50.9246
+            ],
+            [
+              -1.4073,
+              50.9239
+            ],
+            [
+              -1.4011,
+              50.925
+            ],
+            [
+              -1.3971,
+              50.9268
+            ],
+            [
+              -1.3965,
+              50.9288
+            ],
+            [
+              -1.3968,
+              50.9295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2000-01-01T00:00:00Z",
+        "end_time": "PERM",
+        "lower_altitude": "GND",
+        "upper_altitude": "UNL",
+        "text": "Military controlled space. No drone operation at any time"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4419,
+              50.9016
+            ],
+            [
+              -1.4447,
+              50.8987
+            ],
+            [
+              -1.4472,
+              50.8971
+            ],
+            [
+              -1.4463,
+              50.8952
+            ],
+            [
+              -1.4434,
+              50.8928
+            ],
+            [
+              -1.4423,
+              50.8919
+            ],
+            [
+              -1.4421,
+              50.8909
+            ],
+            [
+              -1.4457,
+              50.8889
+            ],
+            [
+              -1.4092,
+              50.8714
+            ],
+            [
+              -1.3969,
+              50.881
+            ],
+            [
+              -1.4144,
+              50.8944
+            ],
+            [
+              -1.4294,
+              50.9009
+            ],
+            [
+              -1.4403,
+              50.9034
+            ],
+            [
+              -1.4419,
+              50.9016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_time": "2019-03-02T07:00:00Z",
+        "end_time": "2019-03-02T16:00:00Z",
+        "lower_altitude": "GND",
+        "upper_altitude": "300 M",
+        "text": "Fête starting at Solent University. New Rd and Mountbatten way clsd."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4203,
+              50.9073
+            ],
+            [
+              -1.4202,
+              50.9066
+            ],
+            [
+              -1.4155,
+              50.9061
+            ],
+            [
+              -1.4112,
+              50.9068
+            ],
+            [
+              -1.4094,
+              50.9066
+            ],
+            [
+              -1.4043,
+              50.9066
+            ],
+            [
+              -1.3994,
+              50.907
+            ],
+            [
+              -1.3997,
+              50.9075
+            ],
+            [
+              -1.4027,
+              50.9072
+            ],
+            [
+              -1.4084,
+              50.9072
+            ],
+            [
+              -1.4114,
+              50.9075
+            ],
+            [
+              -1.4144,
+              50.9069
+            ],
+            [
+              -1.4166,
+              50.9072
+            ],
+            [
+              -1.4203,
+              50.9073
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "No flight over Primary Schools",
+        "start_time": "2017-01-01T01:01:01Z",
+        "end_time": "PERM",
+        "lower_altitude": "GND",
+        "upper_altitude": "2000 FT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3885,
+              50.9315
+            ],
+            [
+              -1.3886,
+              50.9310
+            ],
+            [
+              -1.3871,
+              50.9310
+            ],
+            [
+              -1.3870,
+              50.9316
+            ],
+            [
+              -1.3883,
+              50.9316
+            ],
+            [
+              -1.3885,
+              50.9315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "No flight over Primary Schools",
+        "start_time": "2017-01-01T01:01:01Z",
+        "end_time": "PERM",
+        "lower_altitude": "GND",
+        "upper_altitude": "2000 FT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3904,
+              50.9366
+            ],
+            [
+              -1.3891,
+              50.9362
+            ],
+            [
+              -1.3887,
+              50.9367
+            ],
+            [
+              -1.3896,
+              50.9374
+            ],
+            [
+              -1.3899,
+              50.9369
+            ],
+            [
+              -1.3901,
+              50.9369
+            ],
+            [
+              -1.3904,
+              50.9366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Nightingale Building off limits due to sensitive experiments",
+        "start_time": "2019-03-01T00:00:00Z",
+        "end_time": "2019-03-02T12:15:00Z",
+        "lower_altitude": "300 FT",
+        "upper_altitude": "300 M"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39678,
+              50.93706
+            ],
+            [
+              -1.39663,
+              50.93633
+            ],
+            [
+              -1.3964,
+              50.93635
+            ],
+            [
+              -1.39654,
+              50.93707
+            ],
+            [
+              -1.39678,
+              50.93706
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
